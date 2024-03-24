@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PJT</string>
+    <string-array name="cities_array">
+        <item>Agadir</item>
+        <item>marrakech</item>
+        <item>Casablanca</item>
+        <item>Settat</item>
+
+    </string-array>
+    <string-array name="cat_array">
+        <item>stage</item>
+        <item>travail</item>
+        <item>stage pfe</item>
+        <item>pre-embauche</item>
+
+    </string-array>
+    <string-array name="sect_array">
+        <item>Choisir une categorie</item>
+        <item>medical</item>
+        <item>business</item>
+        <item>economie</item>
+
+    </string-array>
+</resources>
